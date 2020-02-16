@@ -22,3 +22,8 @@ h1 {
     text-shadow: 1px 1px #72629a;
 }
 
+#left-bar {
+    width: 25%;
+    min-width: 200px;
+    display: inline-block;
+}
