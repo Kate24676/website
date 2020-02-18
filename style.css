@@ -84,3 +84,14 @@ h1 {
   p:not(.about) {
     line-height: 1.3em;
   }
+
+  .achievements ul {
+   list-style: none;
+   padding: 0;
+   margin: 0; 
+  }
+
+  .achievements li {
+    padding: 10px 40px;
+    font-size: 0.75em;
+  }
