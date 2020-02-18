@@ -80,3 +80,7 @@ h1 {
     font-size: 0.9em;
     font-style: italic;
   }
+
+  p:not(.about) {
+    line-height: 1.3em;
+  }
