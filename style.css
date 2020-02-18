@@ -95,3 +95,7 @@ h1 {
     padding: 10px 40px;
     font-size: 0.75em;
   }
+
+  .achievements li:nth-child(odd) {
+    background-color: rgba(176, 175, 192, 0.2);
+  }
